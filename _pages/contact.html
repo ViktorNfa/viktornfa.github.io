@@ -1,0 +1,44 @@
+---
+permalink: /contact/
+layout: single
+title: "Contact Information"
+excerpt: "Contact"
+author_profile: true
+redirect_from: 
+  - /contact_info/
+  - /contact.html
+---
+
+{% include base_path %}
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<p>
+    <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }} <br>
+    <i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ author.github }}"> AndreuMatoses</a><br>
+    <i class="fas fa-fw fa-graduation-cap"></i> <a href="{{ author.googlescholar }}"> Google Scholar</a>
+</p>
+
+<h2>My office space:</h2>
+
+<p>
+    Room <b>34.F-2-180</b>, <br>
+    Department of Cognitive Robotics <a href="https://www.tudelft.nl/3me/over/afdelingen/cognitive-robotics-cor">(CoR),</a><br>
+    Mekelweg 2 <a href="https://www.tudelft.nl/en/3me">(3mE),</a><br>
+    <!-- <b>T<font color="#80c9e4">U</font> Delft</b> -->
+    <b>T<span style="color: #80c9e4;">U</span> Delft</b>
+    <br><a href="https://goo.gl/maps/BuLDBTrdmY2hLjed8">2628 CD Delft, Netherlands</a>
+</p>
+
+<p><img src="/images/contact_img.jpg", class=".align-center"></p>
+
+<!-- <iframe
+  width="100%"
+  height="400"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://maps.google.com/maps?width=100%25&amp;height=400&amp;hl=en&amp;q=3mE%20delft+(3me%20delft)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+</iframe> -->

@@ -1,0 +1,57 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+{% if author.googlescholar %}
+  You can also find my publications on <a href="{{ author.googlescholar }}"><i class="small fas fa-fw fa-graduation-cap"></i> Google Scholar</a>.
+{% endif %}
+
+<!-- date field sort: https://gist.github.com/Phlow/1f27dfafdf2bbcc5c48e -->
+{% assign sorted = site.publications | sort: 'date' | reverse %}
+
+<h2>Conferences</h2>
+
+{% assign is_empty = true %}
+{% for post in sorted %}
+  {% if post.type == "conference" %}
+    {% include publication_entry.html %}
+    {% assign is_empty = false %}
+  {% endif %}
+{% endfor %}
+{% if is_empty == true %}
+  <p>Coming soon...</p>
+{% endif %}
+
+<h2>Journals</h2>
+
+{% assign is_empty = true %}
+{% for post in sorted %}
+  {% if post.type == "journal" %}
+    {% include publication_entry.html %}
+    {% assign is_empty = false %}
+  {% endif %}
+{% endfor %}
+{% if is_empty == true %}
+  <p>Coming soon...</p>
+{% endif %}
+
+<h2>Others</h2>
+
+{% assign is_empty = true %}
+{% for post in sorted %}
+  {% if post.type != "journal" and post.type != "conference" %}
+    {% include publication_entry.html %}
+    {% assign is_empty = false %}
+  {% endif %}
+{% endfor %}
+{% if is_empty == true %}
+  <p>Coming soon...</p>
+{% endif %}
