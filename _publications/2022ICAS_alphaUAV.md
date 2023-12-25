@@ -2,7 +2,7 @@
 title: "Design of a HALE UAV for atmospheric imaging"
 collection: publications
 type: "conference" # "journal", "conference", "other"
-authors: "Nan Fernandez-Ayala V., Vimlati L., <b>Matoses Gimenez A.</b>, Delmotte H., Ivchenko M. and Mariani R."
+authors: "<b>Nan Fernandez-Ayala V.</b>, Vimlati L., Matoses Gimenez A., Delmotte H., Ivchenko M. and Mariani R."
 date: 2022-09-01
 venue: 'International Council of the Aeronautical Sciences (ICAS)'
 # citation: 'Your Name. &quot;Paper Title.&quot; <i>Journal 1</i>.' # If not defined, the recommended citation is automatically generated
@@ -26,10 +26,6 @@ This paper presents the conceptual design phase of the aircraft, as well as the 
 {: .text-justify}
 
 ## Media
-This is me presenting the project and the paper at ICAS 2022.
-
-![me presenting the project at ICAS 2022]({{base_path}}/images/alpha_uav/me_presenting_at_ICAS.jpg){: width="500" }
-
 Some pictures of the ALPHA UAV first prototype.
 
 ![me presenting the project at ICAS 2022](/images/alpha_uav/assemble_full_scale.png){: width="500" }

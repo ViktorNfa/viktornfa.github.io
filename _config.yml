@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andreu Matoses Gimenez"
+title                    : "Victor Nan Fernandez-Ayala"
 title_separator          : "-"
-name                     : &name "Andreu Matoses Gimenez"
-description              : &description "Andreu's personal page"
-url                      : https://andreumatoses.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Victor Nan Fernandez-Ayala"
+description              : &description "Victor's personal page"
+url                      : https://viktornfa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AndreuMatoses/andreumatoses.github.io"
+repository               : "ViktorNfa/viktornfa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,20 +75,20 @@ social:
 analytics:
   provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-ZQN5G9F3CC"
+    tracking_id          : "G-ES8TSZTX1R"
     anonymize_ip: false # default
 
 
 # Site Author
 author:
-  name             : "Andreu Matoses Gimenez"
+  name             : "Victor Nan Fernandez-Ayala"
   avatar           : "profile.jpg"
-  bio              : "PhD in Robotics and Control, <b>T</b><span style='color: #80c9e4; font-weight: bold;'>U</span> Delft "
-  location         : "Delft, Netherlands"
+  bio              : "PhD in Robotics and Control, <span style='color: #004791; font-weight: bold;'>KTH Royal Institute of Technology</span>"
+  location         : "Stockholm, Sweden"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=mQvQ-DYAAAAJ&hl=en"
-  email            : "A.MatosesGimenez[at]tudelft.nl"
+  googlescholar    : "https://scholar.google.ca/citations?hl=en&user=0m9lfAwAAAAJ"
+  email            : "vnfa@kth.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AndreuMatoses"
+  github           : "ViktorNfa"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "andreu-matoses"
+  linkedin         : "victornfa"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -114,7 +114,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "@viktornfa"
   wikipedia        :
 
 
@@ -185,7 +185,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path
-  # talks:
+  # conferences:
   #   output: true
   #   permalink: /:collection/:path
 
@@ -237,12 +237,12 @@ defaults:
       author_profile: true
       share: false
       comment: true
-  # # _talks
+  # # _conferences
   # - scope:
   #     path: ""
   #     type: talks
-  #   values:
-  #     layout: talk
+  #     values:
+  #     layout: talks
   #     author_profile: true
   #     share: false
 
