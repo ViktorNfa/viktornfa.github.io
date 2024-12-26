@@ -17,7 +17,7 @@ redirect_from:
 
 I am a PhD Student at the KTH Royal Institute of Technology in Stockholm associated with the Division of Decision and Control Systems (DCS) and supervised by Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/). I am also an affiliated student with the Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). My primary research interest lies in multi-agent systems, robotics, safety-critical and Human-In-the-Loop (HIL) control and I am currently working with the precision agriculture [EU CANOPIES](https://canopies.inf.uniroma3.it/) project and the [Digital Futures Smart Construction](https://www.digitalfutures.kth.se/research/industrial-innovation-projects/towards-safe-smart-construction-algorithms-digital-twins-and-infrastructures/) project.
 
-I'm always looking for motivated students interested on the fields of task and motion planning, robotic manipulation and HIL control, so if you want to collaborate for your Master Thesis or independent work feel free to drop me an email.
+I'm always looking for motivated students interested in the fields of task and motion planning, robotic manipulation and HIL control, so if you want to collaborate for your Master Thesis or independent work feel free to drop me an email.
 
 I'm also looking for opportunites to innovate and I'm interested in entrepreneurship, so you are welcome to contact me for collaboration.
 <!-- {: .text-justify} -->
