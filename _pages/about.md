@@ -28,7 +28,7 @@ Before coming to Stockholm, I obtained my bachelor's degree in aerospace enginee
 ## News
 
 - **January 2025.** I will be in the 2025 WASP winter conference.
-- **May 2024.** I attended the 2024 International Conference on Robotics and Automation ([ICRA](https://www.icra2024.org/)).
+- **May 2024.** I attended the 2024 International Conference on Robotics and Automation ([ICRA](https://2024.ieee-icra.org/)).
 - **January 2024.** I attended the 2024 WASP winter conference.
 - **June 2023.** I attended the 2023 International Conference on Robotics and Automation ([ICRA](https://www.icra2023.org/)).
 - **May 2023.** I attended the course "IGSC2023‐M17 DELFT Multi‐agent control under spatiotemporal logic constraints" held by Professors Lars Lindemann.

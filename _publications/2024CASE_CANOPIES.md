@@ -3,7 +3,7 @@ title: "Enhancing Precision Agriculture Through Human-in-the-Loop Planning and C
 collection: publications
 type: "conference" # "journal", "conference", "other"
 authors: "Shankar A. D., Sujet P., Matoses Gimenez A., <b>Nan Fernandez-Ayala V.</b>, Wong R., Yu P., Tan X. and V. Dimarogonas D."
-date: 2023-08-28
+date: 2024-08-28
 venue: 'Conference on Automation Science and Engineering (CASE)'
 # citation: 'Your Name. &quot;Paper Title.&quot; <i>Journal 1</i>.' # If not defined, the recommended citation is automatically generated
 paperurl: 'https://ieeexplore.ieee.org/document/10711319' #.pdf file link, can be "http://..." or a file name inside files/

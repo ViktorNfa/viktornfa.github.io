@@ -3,7 +3,7 @@ title: "Multi-robot Human-in-the-loop Control under Spatiotemporal Specification
 collection: publications
 type: "conference" # "journal", "conference", "other"
 authors: "Zhang Y., <b>Nan Fernandez-Ayala V.</b> and V. Dimarogonas D."
-date: 2023-05-13
+date: 2024-05-13
 venue: 'International Conference on Robotics and Automation (ICRA)'
 # citation: 'Your Name. &quot;Paper Title.&quot; <i>Journal 1</i>.' # If not defined, the recommended citation is automatically generated
 paperurl: 'https://ieeexplore.ieee.org/document/10610123' #.pdf file link, can be "http://..." or a file name inside files/
