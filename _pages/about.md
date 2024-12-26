@@ -28,6 +28,7 @@ Before coming to Stockholm, I obtained my bachelor's degree in aerospace enginee
 ## News
 
 - **January 2025.** I will be in the 2025 WASP winter conference.
+- **September 2024.** I co-founded a (stealth) robotics startup.
 - **May 2024.** I attended the 2024 International Conference on Robotics and Automation ([ICRA](https://2024.ieee-icra.org/)).
 - **January 2024.** I attended the 2024 WASP winter conference.
 - **June 2023.** I attended the 2023 International Conference on Robotics and Automation ([ICRA](https://www.icra2023.org/)).
