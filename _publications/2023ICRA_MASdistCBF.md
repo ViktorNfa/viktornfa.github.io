@@ -38,7 +38,7 @@ maintenance, and arena range limits.
 ## Media
 Picture of the experimental setup with robots and artificial vineyard.
 
-![me presenting the project at ICAS 2022]({{base_path}}/images/icra23/robots.jpg){: width="1000" }
+![me herding the robots with the CBF controller]({{base_path}}/images/icra23/robots.jpg){: width="1000" }
 
 ## BibTex
 

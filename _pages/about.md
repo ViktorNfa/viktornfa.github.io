@@ -15,11 +15,11 @@ redirect_from:
 
 # About me
 
-I am a PhD Student at the KTH Royal Institute of Technology in Stockholm associated with the Division of Decision and Control Systems (DCS) and supervised by Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/). I am also an affiliated student with the Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). My primary research interest lies in multi-agent systems, robotics, safety-critical and Human-In-the-Loop (HIL) control and I am currently working with the precision agriculture [EU CANOPIES](https://canopies.inf.uniroma3.it/) project and the [Digital Futures Smart Construction](https://www.digitalfutures.kth.se/research/industrial-innovation-projects/towards-safe-smart-construction-algorithms-digital-twins-and-infrastructures/) project.
+I am a PhD Student at the KTH Royal Institute of Technology in Stockholm associated with the Division of Decision and Control Systems (DCS) and supervised by Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/). I am also an affiliated student with the Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). My primary research interest lies in multi-agent systems, robotics, safety-critical and Human-In-the-Loop (HIL) control and I am currently working with the precision agriculture [EU CANOPIES](https://canopies.inf.uniroma3.it/) project, the [Digital Futures Smart Construction](https://www.digitalfutures.kth.se/research/industrial-innovation-projects/towards-safe-smart-construction-algorithms-digital-twins-and-infrastructures/) project and the underwater HRI project SHARCEX.
 
-I'm always looking for motivated students interested in the fields of task and motion planning, robotic manipulation and HIL control, so if you want to collaborate for your Master Thesis or independent work feel free to drop me an email.
+I'm always looking for motivated students interested in the fields of task and motion planning, robotic manipulation and HIL control, so if you want to collaborate for your Master Thesis or independent work feel free to drop me an email or check my proposals in the [DCS website](https://www.kth.se/social/group/dsc-msc-thesis-propo/page/available-msc-project-proposals-at-dcs/).
 
-I'm also looking for opportunites to innovate and I'm interested in entrepreneurship, so you are welcome to contact me for collaboration.
+I'm also the CTO & co-founder of a stealth startup focused on multi-robot planning and control for pick and place tasks, so if you are interested on collaboration feel free to send me an email.
 <!-- {: .text-justify} -->
 
 Before coming to Stockholm, I obtained my bachelor's degree in aerospace engineering from Universidad Carlos III de Madrid (Spain), and a master's degree from KTH Royal institute of Technology (Sweden). During my MSc, I also worked as a research engineer at the Smart Mobility Lab (SML) KTH for Professor [Dimos Dimarogonas’s](https://people.kth.se/~dimos/) group.
@@ -27,7 +27,9 @@ Before coming to Stockholm, I obtained my bachelor's degree in aerospace enginee
 
 ## News
 
-- **January 2024.** I will be in the 2024 WASP winter conference.
+- **January 2025.** I will be in the 2025 WASP winter conference.
+- **May 2024.** I attended the 2024 International Conference on Robotics and Automation ([ICRA](https://www.icra2024.org/)).
+- **January 2024.** I attended the 2024 WASP winter conference.
 - **June 2023.** I attended the 2023 International Conference on Robotics and Automation ([ICRA](https://www.icra2023.org/)).
 - **May 2023.** I attended the course "IGSC2023‐M17 DELFT Multi‐agent control under spatiotemporal logic constraints" held by Professors Lars Lindemann.
 - **January 2023.** I attended the 2023 WASP winter conference.

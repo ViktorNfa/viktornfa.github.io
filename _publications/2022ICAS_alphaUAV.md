@@ -28,7 +28,7 @@ This paper presents the conceptual design phase of the aircraft, as well as the 
 ## Media
 Some pictures of the ALPHA UAV first prototype.
 
-![me presenting the project at ICAS 2022](/images/alpha_uav/assemble_full_scale.png){: width="500" }
+![ALPHA UAV assembled](/images/alpha_uav/assemble_full_scale.png){: width="500" }
 
 ## BibTex
 

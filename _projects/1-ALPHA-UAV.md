@@ -9,8 +9,8 @@ cover_gallery:
     alt: "UAV prototype  on the making"
     title: "UAV prototype  on the making"
   - image_path: alpha_uav/me_presenting_at_ICAS.jpg
-    alt: "Me presenting at ICAS 2022"
-    title: "Me presenting at ICAS 2022"
+    alt: "Andreu presenting at ICAS 2022"
+    title: "Andreu presenting at ICAS 2022"
   # - image_path: 500x300.png
   #   url: https://flic.kr/p/8a6Ven
   #   alt: "placeholder image 3"
