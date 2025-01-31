@@ -30,7 +30,7 @@ Picture of the experimental setup at the field.
 ## BibTex
 
 ```bibtex
-@inproceedings{ICRA23_HIL_MAS,
+@inproceedings{CASE24_LTL_MAS,
   author={Deka, Shankar A. and Phodapol, Sujet and Gimenez, Andreu Matoses and Fernandez-Ayala, Victor Nan and Wong, Rufus and Yu, Pian and Tan, Xiao and Dimarogonas, Dimos V.},
   booktitle={2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)}, 
   title={Enhancing Precision Agriculture Through Human-in-the-Loop Planning and Control}, 

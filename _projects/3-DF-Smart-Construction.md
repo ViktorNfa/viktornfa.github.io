@@ -8,9 +8,9 @@ cover_gallery:
   - image_path: smart_construction/5g_digital_twin_diagram.png
     alt: "Diagram of Smart Construction modules and solution"
     title: "Diagram of Smart Construction system"
-  # - image_path: alpha_uav/me_presenting_at_ICAS.jpg
-  #   alt: "Me presenting at ICAS 2022"
-  #   title: "Me presenting at ICAS 2022"
+  - image_path: smart_construction/setup_gantry.png
+    alt: "Construction gantry used in the project"
+    title: "Rebar construction gantry"
   # - image_path: 500x300.png
   #   url: https://flic.kr/p/8a6Ven
   #   alt: "placeholder image 3"
