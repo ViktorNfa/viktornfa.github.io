@@ -25,7 +25,7 @@ In this work, we address the challenge of approximating unknown system dynamics 
 ## Media
 Picture of the robot used and recorded trajectories for prediction.
 
-![me herding the robots with the CBF controller]({{base_path}}/images/tac25/robots_prediction.png){: width="1000" }
+![robots predictions]({{base_path}}/images/tac25/robots_prediction.png){: width="1000" }
 
 ## BibTex
 
