@@ -3,7 +3,7 @@ title: "Towards Safe Smart Construction: Algorithms, Digital Twins and Infrastru
 excerpt: "The project aims to develop an integrated digital infrastructure system to enhance the level of automation for smart construction. The initial goal will involve the creation of models for the digital twin of the robotic environment on construction sites. The digital twin will be used for remote real-time monitoring, prediction, optimization and multi-robot task planning and control. The results will be tested and applied to a practical Skanska use case."
 collection: projects
 # paperurl: "https://link_to_related_paper"
-link: "https://www.digitalfutures.kth.se/research/industrial-innovation-projects/on-going-industrial-innovation-projects/towards-safe-smart-construction-algorithms-digital-twins-and-infrastructures/"
+link: "https://www.digitalfutures.kth.se/project/towards-safe-smart-construction-algorithms-digital-twins-and-infrastructures/"
 cover_gallery:
   - image_path: smart_construction/5g_digital_twin_diagram.png
     alt: "Diagram of Smart Construction modules and solution"
