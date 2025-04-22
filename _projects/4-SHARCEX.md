@@ -1,19 +1,6 @@
 ---
 title: "SHARCEX – Synergistic Human-Robot Collaboration in Extreme Environments: Simulation to Experimental Validation"
-excerpt: "The SHARCEX project focuses on improving underwater operations by integrating advanced autonomous underwater vehicles (AUVs) with human divers. The goal is to enhance safety and efficiency in extreme underwater environments such as defense, rescue operations, and law enforcement.
-
-Key technologies being developed and integrated include:
-- Embedded AI for real-time decision-making
-- Machine learning for environmental adaptation
-- Computer vision for precise navigation and object recognition
-- Safe reinforcement learning to ensure strict safety protocols
-
-The project progresses through multiple phases:
-- Development of AI models
-- System integration
-- User interface design
-- Operational testing
-KTH leads the project in collaboration with FMV and Saab, aiming to demonstrate robust AUV-Diver collaborations validated through extensive simulations and experiments."
+excerpt: "The SHARCEX project focuses on improving underwater operations by integrating advanced autonomous underwater vehicles (AUVs) with human divers. The goal is to enhance safety and efficiency in extreme underwater environments such as defense, rescue operations, and law enforcement. KTH leads the project in collaboration with FMV and Saab, aiming to demonstrate robust AUV-Diver collaborations validated through extensive simulations and experiments."
 collection: projects
 # paperurl: "https://link_to_related_paper"
 link: "https://www.digitalfutures.kth.se/project/sharcex-synergistic-human-robot-collaboration-in-extreme-environments-simulation-to-experimental-validation/"
