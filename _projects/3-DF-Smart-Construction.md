@@ -19,4 +19,4 @@ cover_gallery:
 
 {% include base_path %}
 
-The work in this project eventually lead to A publication on ECC 2024 (pending acceptance).
+The work in this project eventually lead to A publication on ECC 2025. See [publications]({{base_path}}/publications/2025ECC_visualServo).
