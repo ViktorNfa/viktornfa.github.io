@@ -19,7 +19,7 @@ I am a PhD Student at the KTH Royal Institute of Technology in Stockholm associa
 
 I'm always looking for motivated students interested in the fields of task and motion planning, robotic manipulation and HIL control, so if you want to collaborate for your Master Thesis or independent work feel free to drop me an email or check my proposals in the [DCS website](https://www.kth.se/social/group/dsc-msc-thesis-propo/page/available-msc-project-proposals-at-dcs/).
 
-I'm also the CTO & co-founder of a stealth startup focused on multi-robot planning and control for pick and place tasks, so if you are interested on collaboration feel free to send me an email.
+I'm also very interested on innovation, entrepreneurship and open-source development, so if you are interested on collaboration feel free to send me an email.
 <!-- {: .text-justify} -->
 
 Before coming to Stockholm, I obtained my bachelor's degree in aerospace engineering from Universidad Carlos III de Madrid (Spain), and a master's degree from KTH Royal institute of Technology (Sweden). During my MSc, I also worked as a research engineer at the Smart Mobility Lab (SML) KTH for Professor [Dimos Dimarogonas’s](https://people.kth.se/~dimos/) group.

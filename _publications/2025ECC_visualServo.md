@@ -1,12 +1,12 @@
 ---
 title: "Robust Visual Servoing under Human Supervision for Assembly Tasks"
 collection: publications
-type: "conference" # "journal", "conference", "other"
+type: "journal" # "journal", "conference", "other"
 authors: "<b>Nan Fernandez-Ayala V.</b>, Silva J., Guo M. and V. Dimarogonas D."
 date: 2025-06-24
-venue: 'European Control Conference (ECC)'
+venue: 'European Journal of Control (EJC)'
 # citation: 'Your Name. &quot;Paper Title.&quot; <i>Journal 1</i>.' # If not defined, the recommended citation is automatically generated
-paperurl: 'https://arxiv.org/pdf/2504.12506' #.pdf file link, can be "http://..." or a file name inside files/
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0947358025001414' #.pdf file link, can be "http://..." or a file name inside files/
 # permalink: /publication/paper-title-number-1
 extra_links: # Can have a url with "https://..." or "#section-name" for a reference to a section in this .md page, e.g #media
   - text: Open version
