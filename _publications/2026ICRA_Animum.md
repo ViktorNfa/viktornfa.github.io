@@ -23,7 +23,7 @@ Autonomous stocking in retail environments, particularly supermarkets, presents 
 {: .text-justify}
 
 ## Media
-Picture of the robot used and recorded trajectories for prediction.
+Picture of the integrated solution on a mock-up store.
 
 ![robots predictions]({{base_path}}/images/icra26/robotic_stocking.png){: width="1000" }
 
