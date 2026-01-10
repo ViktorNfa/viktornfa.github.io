@@ -69,8 +69,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - platform            : twitter
-      url                 : https://twitter.com/ViktorNfa
     - platform            : bluesky
       url                 : https://bsky.app/profile/viktornfa.bsky.social
 
@@ -114,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ViktorNfa"
+  twitter          : 
   bluesky          : "https://bsky.app/profile/viktornfa.bsky.social"
   vine             :
   weibo            :
