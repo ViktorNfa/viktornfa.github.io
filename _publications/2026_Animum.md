@@ -1,10 +1,10 @@
 ---
 title: "From Pixels to Shelf: End-to-End Algorithmic Control of a Mobile Manipulator for Supermarket Stocking and Fronting"
 collection: publications
-type: "conference" # "journal", "conference", "other"
+type: "other" # "journal", "conference", "other"
 authors: "Peron D., <b>Nan Fernandez-Ayala V.</b> and Segelmark L."
 date: 2025-09-16
-venue: 'International Conference on Robotics and Automation (ICRA) (submitted)'
+venue: 'Animum - Fronta startup - Technical report'
 # citation: 'Your Name. &quot;Paper Title.&quot; <i>Journal 1</i>.' # If not defined, the recommended citation is automatically generated
 paperurl: 'https://arxiv.org/pdf/2509.11740' #.pdf file link, can be "http://..." or a file name inside files/
 # permalink: /publication/paper-title-number-1
@@ -25,7 +25,7 @@ Autonomous stocking in retail environments, particularly supermarkets, presents 
 ## Media
 Picture of the integrated solution on a mock-up store.
 
-![robots predictions]({{base_path}}/images/icra26/robotic_stocking.png){: width="1000" }
+![robots predictions]({{base_path}}/images/animum/robotic_stocking.png){: width="1000" }
 
 ## BibTex
 
