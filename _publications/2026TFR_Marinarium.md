@@ -4,7 +4,7 @@ collection: publications
 type: "journal" # "journal", "conference", "other"
 authors: "Torroba I., Dorner D., <b>Nan Fernandez-Ayala V.</b>, Kartasev M., Verhagen J., Krantz E., Marchesini G., Ljung C., Roque P., Sidrane C., Van der Spaa L., De Carli N., Ogren P., Fuglesang C., Tumova J., V. Dimarogonas D. and Stenius I."
 date: 2026-03-02
-venue: 'IEEE Transactions on Field Robotics'
+venue: 'IEEE Transactions on Field Robotics (TFR) (submitted)'
 # citation: 'Your Name. &quot;Paper Title.&quot; <i>Journal 1</i>.' # If not defined, the recommended citation is automatically generated
 paperurl: 'https://arxiv.org/pdf/2602.23053' #.pdf file link, can be "http://..." or a file name inside files/
 # permalink: /publication/paper-title-number-1
@@ -25,7 +25,7 @@ This paper presents the Marinarium, a modular and stand-alone underwater researc
 ## Media
 Picture of the Marinarium underwater testing facility.
 
-![Marinarium]({{base_path}}/images/tsmc26/tank_top.jpg){: width="1000" }
+![Marinarium]({{base_path}}/images/tfr26/tank_top.jpg){: width="1000" }
 
 ## BibTex
 

@@ -4,7 +4,7 @@ collection: publications
 type: "journal" # "journal", "conference", "other"
 authors: "Liu Z., Silva J., Zhong R., Qin Q., Roy N., <b>Nan Fernandez-Ayala V.</b>, Lesko J., Håkansson U., Sandberg S., V. Dimarogonas D., Gross J., Vincent Wang X. and Wang L."
 date: 2026-02-19
-venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)'
 # citation: 'Your Name. &quot;Paper Title.&quot; <i>Journal 1</i>.' # If not defined, the recommended citation is automatically generated
 paperurl: 'https://ieeexplore.ieee.org/document/11399914' #.pdf file link, can be "http://..." or a file name inside files/
 # permalink: /publication/paper-title-number-1
