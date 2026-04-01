@@ -15,7 +15,7 @@ redirect_from:
 
 # About me
 
-I am a PhD Student at the KTH Royal Institute of Technology in Stockholm associated with the Division of Decision and Control Systems (DCS) and supervised by Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/). I am also an affiliated student with the Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). My primary research interest lies in multi-agent systems, robotics, safety-critical and Human-In-the-Loop (HIL) control and I am currently working with the precision agriculture [EU CANOPIES](https://canopies.inf.uniroma3.it/) project, the [Digital Futures Smart Construction](https://www.digitalfutures.kth.se/project/towards-safe-smart-construction-algorithms-digital-twins-and-infrastructures/) project and the underwater HRI project [SHARCEX](https://www.digitalfutures.kth.se/project/sharcex-synergistic-human-robot-collaboration-in-extreme-environments-simulation-to-experimental-validation/).
+I am a PhD Student at the KTH Royal Institute of Technology in Stockholm associated with the Division of Decision and Control Systems (DCS) and supervised by Prof. [Dimos Dimarogonas](https://people.kth.se/~dimos/). I am also an affiliated student with the Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org/)). My primary research interest lies in multi-agent systems, robotics, safety-critical and Human-In-the-Loop (HIL) control and I am currently working with the precision agriculture [EU CANOPIES](https://canopies.inf.uniroma3.it/) project, the [Digital Futures Smart Construction](https://www.digitalfutures.kth.se/project/towards-safe-smart-construction-algorithms-digital-twins-and-infrastructures/) project and the underwater HRI project [SHARCEX](https://www.digitalfutures.kth.se/project/sharcex-synergistic-human-robot-collaboration-in-extreme-environments-simulation-to-experimental-validation/). Furthermore, I'm an active member and contributor to [PX4](https://github.com/PX4/PX4-Autopilot), particularly for underwater & space vehicles, as well as the SITL simulator pipeline.
 
 I'm always looking for motivated students interested in the fields of task and motion planning, robotic manipulation and HIL control, so if you want to collaborate for your Master Thesis or independent work feel free to drop me an email or check my proposals in the [DCS website](https://www.kth.se/social/group/dsc-msc-thesis-propo/page/available-msc-project-proposals-at-dcs/).
 
@@ -27,6 +27,8 @@ Before coming to Stockholm, I obtained my bachelor's degree in aerospace enginee
 
 ## News
 
+- **February 2026.** I attended the SeaClear2.0 Winter School.
+- **January 2026.** I attended the 2026 WASP winter conference.
 - **June 2025.** I attended the ECC2025 conference.
 - **January 2025.** I attended the 2025 WASP winter conference.
 - **July 2024.** I co-founded [Animum](https://www.animum.ai/), a robotic startup focused on autonomous stocking and fronting of supermarket shelves at night.
