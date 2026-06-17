@@ -27,6 +27,7 @@ Before coming to Stockholm, I obtained my bachelor's degree in aerospace enginee
 
 ## News
 
+- **March 2026.** I co-founded [Datlantis](https://datlantis.eu/), a Deep Tech startup focused on developing, operating and servicing underwater data centres.
 - **February 2026.** I attended the SeaClear2.0 Winter School.
 - **January 2026.** I attended the 2026 WASP winter conference.
 - **June 2025.** I attended the ECC2025 conference.
