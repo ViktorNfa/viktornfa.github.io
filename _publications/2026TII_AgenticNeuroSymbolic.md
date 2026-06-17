@@ -1,6 +1,5 @@
 ---
-title: "Agentic Neuro–Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins
-"
+title: "Agentic Neuro–Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins"
 collection: publications
 type: "journal" # "journal", "conference", "other"
 authors: "Liu Z., <b>Nan Fernandez-Ayala V.</b>, Wang T., Qin Q., Vincent Wang X., V. Dimarogonas D. and Wang L."

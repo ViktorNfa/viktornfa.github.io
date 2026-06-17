@@ -3,7 +3,7 @@ title: "From Pixels to Shelf: End-to-End Algorithmic Control of a Mobile Manipul
 collection: publications
 type: "conference" # "journal", "conference", "other"
 authors: "Peron D., <b>Nan Fernandez-Ayala V.</b> and Segelmark L."
-date: 2025-09-16
+date: 2026-02-06
 venue: 'Conference on Automation Science and Engineering (CASE)'
 # citation: 'Your Name. &quot;Paper Title.&quot; <i>Journal 1</i>.' # If not defined, the recommended citation is automatically generated
 paperurl: 'https://arxiv.org/pdf/2509.11740' #.pdf file link, can be "http://..." or a file name inside files/
